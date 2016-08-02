@@ -1,4 +1,4 @@
-package kr.ac.helloworld.servlet;
+package kr.ac.sungkyul.helloworld.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;

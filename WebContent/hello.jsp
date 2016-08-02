@@ -8,5 +8,38 @@
 </head>
 <body>
 	<h1>Hello World</h1>
+	<h2>Hello World</h2>
+	<h3>Hello World</h3>
+	<h4>Hello World</h4>
+	<h5>Hello World</h5>
+	<h6>Hello World</h6>
+	
+	<a href="http://www.sungkyul.ac.kr" target="_blank">우리학교 가기</a>
+	<br/>
+	
+	<a href="/helloworld/hello/index.jsp">절대경로</a>
+	<br/>
+	
+	<a href="/helloworld/table.jsp?r=10&c=20">10X20 테이블(jsp)</a>
+	<br/>
+
+	<a href="/helloworld/table?r=100&c=200">100X200 테이블(servlet)</a>
+	<br/><br/>
+	
+	<a href="/helloworld/gugudan.jsp">구구단(jsp)</a>
+	<br/><br/>
+	
+	<a href="/helloworld/gugudan">구구단(servlet)</a>
+	<br/><br/>
+	
+	
+	<img src="http://www.sungkyul.ac.kr/mbs/skukr/images/common/logo_sungkyul.gif"/>
+	<br/><br/>
+	
+	<img src="/helloworld/images/lion.jpg"/>
+	<br/><br/>
+
+	<img src="./images/lion.jpg"/>
+	
 </body>
 </html>
